@@ -5,3 +5,5 @@ test_snapshots/
 mimo/
 /coverage/
 deployments-*.prev.json
+config.bat
+node_modules
